@@ -4,10 +4,11 @@
 </div>
 
 <div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=fahd-111&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/fahd-111)
   
+  [![Profile Views](https://komarev.com/ghpvc/?username=fahd-111&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/fahd-111)
   [![GitHub followers](https://img.shields.io/github/followers/fahd-111?label=Followers&style=social)](https://github.com/fahd-111?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/fahd-111?label=Stars&style=social)](https://github.com/fahd-111)
+
 </div>
 
 ---
@@ -115,7 +116,9 @@ mindmap
 
 
 </div>
+
 ---
+
 ## 💼 Professional Experience
 **🏢 Software Engineer @ Credminds**
 - 🤖 Developing AI-powered calling agents with natural language understanding
@@ -128,28 +131,39 @@ mindmap
 <div align="center">
   <!-- Replace with your actual public repos -->
 </div>
+
 ---
+
 ## 📫 Let's Connect!
 <div align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fahad-6b0bb7270)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahad.jcat123@gmail.com)
 </div>
+
 ---
+
 ## ⚡ Fun Facts
 - 🎯 I love solving complex problems with elegant solutions
 - 🌱 Always learning new technologies and frameworks
 - 💡 Passionate about AI and its potential to transform industries
 - 🎮 When not coding, I enjoy exploring new tech trends
 - 🤝 Open to collaboration on innovative AI projects
+
 ---
+
 ## 💭 Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
+
 ---
+
 <div align="center">
   ### 🚀 Let's build something amazing together!
 </div>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
