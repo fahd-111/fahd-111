@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 ```typescript
 const fahd = {
-    role: "Software Engineer @ Credminds",
+    role: "Software Engineer Powered by Claude Code",
     location: "Building the future with AI 🌍",
     currentFocus: ["AI-Powered Solutions", "Full-Stack Development", "Mobile Apps"],
     code: ["Python", "JavaScript", "TypeScript", "Dart", "Java"],
